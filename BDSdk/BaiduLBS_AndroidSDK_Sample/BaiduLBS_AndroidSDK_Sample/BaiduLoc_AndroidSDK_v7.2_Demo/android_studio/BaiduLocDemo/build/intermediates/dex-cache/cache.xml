@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/clamp/Downloads/BaiduLoc_AndroidSDK_v7.1_All/BaiduLoc_AndroidSDK_v7.2_Demo/android_studio/BaiduLocDemo/app/libs/BaiduLBS_Android.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d048c62e935aecb1ca1ec2e5cf6abbeb0d4f6d46">
+        <dex dex="/Users/clamp/Downloads/BaiduLoc_AndroidSDK_v7.1_All/BaiduLoc_AndroidSDK_v7.2_Demo/android_studio/BaiduLocDemo/app/build/intermediates/pre-dexed/debug/BaiduLBS_Android_387bb1e404c07288297767de05f498b7d4bddb2e.jar" />
+    </item>
+
+</items>

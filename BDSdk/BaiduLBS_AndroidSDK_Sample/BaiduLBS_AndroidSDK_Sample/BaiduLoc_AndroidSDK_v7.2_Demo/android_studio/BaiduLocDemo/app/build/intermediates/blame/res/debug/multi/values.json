@@ -1,0 +1,433 @@
+[
+    {
+        "outputFile": "/Users/clamp/Downloads/BaiduLoc_AndroidSDK_v7.1_All/BaiduLoc_AndroidSDK_v7.2_Demo/android_studio/BaiduLocDemo/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/Users/clamp/Downloads/BaiduLoc_AndroidSDK_v7.1_All/BaiduLoc_AndroidSDK_v7.2_Demo/android_studio/BaiduLocDemo/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "/Users/clamp/Downloads/BaiduLoc_AndroidSDK_v7.1_All/BaiduLoc_AndroidSDK_v7.2_Demo/android_studio/BaiduLocDemo/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 46,
+                    "endOffset": 211
+                },
+                "from": {
+                    "file": "/Users/clamp/Downloads/BaiduLoc_AndroidSDK_v7.1_All/BaiduLoc_AndroidSDK_v7.2_Demo/android_studio/BaiduLocDemo/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 309,
+                        "endColumn": 46,
+                        "endOffset": 351
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 216,
+                    "endColumn": 46,
+                    "endOffset": 258
+                },
+                "from": {
+                    "file": "/Users/clamp/Downloads/BaiduLoc_AndroidSDK_v7.1_All/BaiduLoc_AndroidSDK_v7.2_Demo/android_studio/BaiduLocDemo/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 211,
+                        "endColumn": 46,
+                        "endOffset": 253
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 263,
+                    "endColumn": 48,
+                    "endOffset": 307
+                },
+                "from": {
+                    "file": "/Users/clamp/Downloads/BaiduLoc_AndroidSDK_v7.1_All/BaiduLoc_AndroidSDK_v7.2_Demo/android_studio/BaiduLocDemo/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 259,
+                        "endColumn": 48,
+                        "endOffset": 303
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 312,
+                    "endColumn": 52,
+                    "endOffset": 360
+                },
+                "from": {
+                    "file": "/Users/clamp/Downloads/BaiduLoc_AndroidSDK_v7.1_All/BaiduLoc_AndroidSDK_v7.2_Demo/android_studio/BaiduLocDemo/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 157,
+                        "endColumn": 52,
+                        "endOffset": 205
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 365,
+                    "endColumn": 47,
+                    "endOffset": 408
+                },
+                "from": {
+                    "file": "/Users/clamp/Downloads/BaiduLoc_AndroidSDK_v7.1_All/BaiduLoc_AndroidSDK_v7.2_Demo/android_studio/BaiduLocDemo/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 47,
+                        "endOffset": 99
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 413,
+                    "endColumn": 105,
+                    "endOffset": 514
+                },
+                "from": {
+                    "file": "/Users/clamp/Downloads/BaiduLoc_AndroidSDK_v7.1_All/BaiduLoc_AndroidSDK_v7.2_Demo/android_studio/BaiduLocDemo/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 707,
+                        "endColumn": 105,
+                        "endOffset": 808
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 519,
+                    "endColumn": 47,
+                    "endOffset": 562
+                },
+                "from": {
+                    "file": "/Users/clamp/Downloads/BaiduLoc_AndroidSDK_v7.1_All/BaiduLoc_AndroidSDK_v7.2_Demo/android_studio/BaiduLocDemo/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 353,
+                        "endColumn": 47,
+                        "endOffset": 396
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 567,
+                    "endColumn": 72,
+                    "endOffset": 635
+                },
+                "from": {
+                    "file": "/Users/clamp/Downloads/BaiduLoc_AndroidSDK_v7.1_All/BaiduLoc_AndroidSDK_v7.2_Demo/android_studio/BaiduLocDemo/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 401,
+                        "endColumn": 72,
+                        "endOffset": 469
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 640,
+                    "endColumn": 49,
+                    "endOffset": 685
+                },
+                "from": {
+                    "file": "/Users/clamp/Downloads/BaiduLoc_AndroidSDK_v7.1_All/BaiduLoc_AndroidSDK_v7.2_Demo/android_studio/BaiduLocDemo/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 303,
+                        "endColumn": 49,
+                        "endOffset": 348
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 690,
+                    "endLine": 26,
+                    "endColumn": 28,
+                    "endOffset": 1105
+                },
+                "from": {
+                    "file": "/Users/clamp/Downloads/BaiduLoc_AndroidSDK_v7.1_All/BaiduLoc_AndroidSDK_v7.2_Demo/android_studio/BaiduLocDemo/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 813,
+                        "endLine": 28,
+                        "endColumn": 28,
+                        "endOffset": 1228
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1110,
+                    "endColumn": 52,
+                    "endOffset": 1158
+                },
+                "from": {
+                    "file": "/Users/clamp/Downloads/BaiduLoc_AndroidSDK_v7.1_All/BaiduLoc_AndroidSDK_v7.2_Demo/android_studio/BaiduLocDemo/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 104,
+                        "endColumn": 52,
+                        "endOffset": 152
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1163,
+                    "endColumn": 94,
+                    "endOffset": 1253
+                },
+                "from": {
+                    "file": "/Users/clamp/Downloads/BaiduLoc_AndroidSDK_v7.1_All/BaiduLoc_AndroidSDK_v7.2_Demo/android_studio/BaiduLocDemo/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 516,
+                        "endColumn": 94,
+                        "endOffset": 606
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1258,
+                    "endLine": 35,
+                    "endColumn": 17,
+                    "endOffset": 1465
+                },
+                "from": {
+                    "file": "/Users/clamp/Downloads/BaiduLoc_AndroidSDK_v7.1_All/BaiduLoc_AndroidSDK_v7.2_Demo/android_studio/BaiduLocDemo/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1233,
+                        "endLine": 35,
+                        "endColumn": 17,
+                        "endOffset": 1440
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 1470,
+                    "endColumn": 68,
+                    "endOffset": 1534
+                },
+                "from": {
+                    "file": "/Users/clamp/Downloads/BaiduLoc_AndroidSDK_v7.1_All/BaiduLoc_AndroidSDK_v7.2_Demo/android_studio/BaiduLocDemo/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1445,
+                        "endColumn": 68,
+                        "endOffset": 1509
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 1539,
+                    "endColumn": 41,
+                    "endOffset": 1576
+                },
+                "from": {
+                    "file": "/Users/clamp/Downloads/BaiduLoc_AndroidSDK_v7.1_All/BaiduLoc_AndroidSDK_v7.2_Demo/android_studio/BaiduLocDemo/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 474,
+                        "endColumn": 41,
+                        "endOffset": 511
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 1581,
+                    "endColumn": 95,
+                    "endOffset": 1672
+                },
+                "from": {
+                    "file": "/Users/clamp/Downloads/BaiduLoc_AndroidSDK_v7.1_All/BaiduLoc_AndroidSDK_v7.2_Demo/android_studio/BaiduLocDemo/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 611,
+                        "endColumn": 95,
+                        "endOffset": 702
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 1677,
+                    "endColumn": 46,
+                    "endOffset": 1719
+                },
+                "from": {
+                    "file": "/Users/clamp/Downloads/BaiduLoc_AndroidSDK_v7.1_All/BaiduLoc_AndroidSDK_v7.2_Demo/android_studio/BaiduLocDemo/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 210,
+                        "endColumn": 46,
+                        "endOffset": 252
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 1724,
+                    "endColumn": 45,
+                    "endOffset": 1765
+                },
+                "from": {
+                    "file": "/Users/clamp/Downloads/BaiduLoc_AndroidSDK_v7.1_All/BaiduLoc_AndroidSDK_v7.2_Demo/android_studio/BaiduLocDemo/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 257,
+                        "endColumn": 45,
+                        "endOffset": 298
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 1770,
+                    "endLine": 47,
+                    "endColumn": 12,
+                    "endOffset": 2056
+                },
+                "from": {
+                    "file": "/Users/clamp/Downloads/BaiduLoc_AndroidSDK_v7.1_All/BaiduLoc_AndroidSDK_v7.2_Demo/android_studio/BaiduLocDemo/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 2061,
+                    "endLine": 50,
+                    "endColumn": 12,
+                    "endOffset": 2216
+                },
+                "from": {
+                    "file": "/Users/clamp/Downloads/BaiduLoc_AndroidSDK_v7.1_All/BaiduLoc_AndroidSDK_v7.2_Demo/android_studio/BaiduLocDemo/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            }
+        ]
+    }
+]

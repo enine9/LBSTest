@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/clamp/Downloads/BaiduLoc_AndroidSDK_v7.1_All/BaiduLoc_AndroidSDK_v7.2_Demo/android_studio/BaiduLocDemo/app/build/intermediates/res/merged/debug/drawable-hdpi/huaji.png",
+        "source": "/Users/clamp/Downloads/BaiduLoc_AndroidSDK_v7.1_All/BaiduLoc_AndroidSDK_v7.2_Demo/android_studio/BaiduLocDemo/app/src/main/res/drawable-hdpi/huaji.png"
+    },
+    {
+        "merged": "/Users/clamp/Downloads/BaiduLoc_AndroidSDK_v7.1_All/BaiduLoc_AndroidSDK_v7.2_Demo/android_studio/BaiduLocDemo/app/build/intermediates/res/merged/debug/drawable-hdpi/icon_openmap_focuse_mark.png",
+        "source": "/Users/clamp/Downloads/BaiduLoc_AndroidSDK_v7.1_All/BaiduLoc_AndroidSDK_v7.2_Demo/android_studio/BaiduLocDemo/app/src/main/res/drawable-hdpi/icon_openmap_focuse_mark.png"
+    },
+    {
+        "merged": "/Users/clamp/Downloads/BaiduLoc_AndroidSDK_v7.1_All/BaiduLoc_AndroidSDK_v7.2_Demo/android_studio/BaiduLocDemo/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/Users/clamp/Downloads/BaiduLoc_AndroidSDK_v7.1_All/BaiduLoc_AndroidSDK_v7.2_Demo/android_studio/BaiduLocDemo/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/clamp/Downloads/BaiduLoc_AndroidSDK_v7.1_All/BaiduLoc_AndroidSDK_v7.2_Demo/android_studio/BaiduLocDemo/app/build/intermediates/res/merged/debug/drawable-hdpi/icon_openmap_mark.png",
+        "source": "/Users/clamp/Downloads/BaiduLoc_AndroidSDK_v7.1_All/BaiduLoc_AndroidSDK_v7.2_Demo/android_studio/BaiduLocDemo/app/src/main/res/drawable-hdpi/icon_openmap_mark.png"
+    }
+]
